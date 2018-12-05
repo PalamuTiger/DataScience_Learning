@@ -1,4 +1,4 @@
-# Data Science Complete Learning
+# Data Science Learning (Complete and Comprehensive)
 
 A list of Data Science tutorials with a project based learning approach.
 
